@@ -43,3 +43,13 @@ The data was extracted from [Books to Scrape](https://books.toscrape.com/), a pu
 
 ## 📁 File Structure
 
+
+
+## Output sample
+
+| Title                 | Price (GBP) | Price (INR) | Rating |
+|-----------------------|--------------|-------------|--------|
+| A Light in the Attic  | £51.77       | ₹5435.85    | Three  |
+| Tipping the Velvet    | £53.74       | ₹5642.70    | One    |
+
+
