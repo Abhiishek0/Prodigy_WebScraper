@@ -33,21 +33,11 @@ The data was extracted from [Books to Scrape](https://books.toscrape.com/), a pu
 
 - Extracts:
   - Book Title
-  - Price
+  - Price (in GBP)
   - Star Rating
-- Saves data to `products.csv`
+- Converts Price from GBP to INR (₹) using a fixed conversion rate (1 GBP = ₹105)
+- Saves data to a structured CSV file
 - Clean and minimal codebase
-- Lightweight and fast
-
----
-
-## 🧾 Output Sample (products.csv)
-
-| Title                       | Price   | Rating |
-|-----------------------------|---------|--------|
-| A Light in the Attic        | £51.77  | Three  |
-| Tipping the Velvet          | £53.74  | One    |
-| ...                         | ...     | ...    |
 
 ---
 
