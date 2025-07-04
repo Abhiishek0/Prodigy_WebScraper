@@ -44,8 +44,9 @@ The data was extracted from [Books to Scrape](https://books.toscrape.com/), a pu
 ## 📁 File Structure
 
 
+### 🖼️ Sample Output
+![Scraper Output](output.png)
 
-## Output sample
 
 | Title                 | Price (GBP) | Price (INR) | Rating |
 |-----------------------|--------------|-------------|--------|
